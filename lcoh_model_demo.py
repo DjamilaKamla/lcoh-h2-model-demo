@@ -1,4 +1,3 @@
-```python
 import numpy as np
 
 def lcoh(capex, opex_annual, lifetime_years, wacc, annual_h2_production_kg):
@@ -16,7 +15,7 @@ def lcoh(capex, opex_annual, lifetime_years, wacc, annual_h2_production_kg):
 
 print("=== LCOH Hydrogen Model – Demo ===\n")
 
-# Hypothèses communes
+# Hypothèses 
 lifetime = 20
 wacc = 0.07
 annual_production = 10_000_000  # kg H2 / an (fictif)
