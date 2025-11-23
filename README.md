@@ -1,5 +1,4 @@
-# LCOH Hydrogen Model – Demo
-
+# LCOH Hydrogen Model 
 Ce projet illustre un **modèle simplifié de calcul du LCOH** (Levelized Cost of Hydrogen),
 utilisé pour évaluer la compétitivité de projets hydrogène.
 
@@ -29,6 +28,15 @@ Le script `lcoh_model_demo.py` :
 2. Implémente une fonction générique de calcul du LCOH.
 3. Compare plusieurs scénarios.
 4. Affiche les résultats et une interprétation business simple.
+
+---
+
+## 👩‍💻 Auteure
+
+**Djamila Kamla Fares**  
+Master 2 Economic Analysis — CY Cergy / ESSEC  
+📧 faresdjamila@gmail.com  
+📍 Île-de-France  
 
 ---
 
